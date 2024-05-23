@@ -26,7 +26,16 @@ En cambio con checkinstall:
 
 ### ¿Se animan a usarlo para empaquetar un hello world ? 
 
-Para hacer esto se debe crear un archivo .c con su respectivo makefile. Posteriormente se hace make y se utiliza checkinstall.Posteriormente se puede utilzar el gestor de paquetes del sistema para instalar el programa. 
+Para hacer esto se debe crear un archivo .c con su respectivo makefile. Posteriormente se hace make y se utiliza checkinstall.
+
+![image](https://github.com/marcosraimondi1/tp4-siscom/assets/69517496/aa261b71-9700-4fb4-89bb-8af87bdf0713)
+
+![image](https://github.com/marcosraimondi1/tp4-siscom/assets/69517496/b5cd30a7-1bdd-4ec1-bae6-e5dcb3ec3bf6)
+
+
+Posteriormente se puede utilzar el gestor de paquetes del sistema para instalar el paquete .deb.
+
+
 
 ### Revisar la bibliografía para impulsar acciones que permitan mejorar la seguridad del kernel, concretamente: evitando cargar módulos que no estén firmados. ¿Qué otras medidas de seguridad podemos implementar para asegurar nuestro ordenador desde el kernel ? 
 
